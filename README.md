@@ -14,6 +14,6 @@ vai estar preparado para ser exeutado por qualquer compilador Java
 ## Exemplo de Uso
 
 O Programa simula um carrinho virtual, onde podemos adicionar e remover
-produtos ja cadastrados no sistema. Listar os itens desejados e calcular
+produtos ja cadastrados no sistema, listar os itens desejados e calcular
 o total da compra
 
