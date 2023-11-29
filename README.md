@@ -17,3 +17,7 @@ O Programa simula um carrinho virtual, onde podemos adicionar e remover
 produtos ja cadastrados no sistema, listar os itens desejados e calcular
 o total da compra
 
+## Acessando o JavaDoc
+
+Para acessar baixe o arquivo entre na pasta e execute o atalho
+JavaDoc
