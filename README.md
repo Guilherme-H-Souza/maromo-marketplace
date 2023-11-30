@@ -32,7 +32,7 @@ em qualquer sistema capaz de rodar uma IDE, como o NetBeans, Eclipse ou IntelliJ
    [site oficial do Git](https://git-scm.com/) ou utilize o comando `apt install git` no Linux. Após a instalação do 
    Git, execute o seguinte comando no terminal:
       ```sh
-      git clone https://github.com/vinicius-delfin/maromo-marketplace.git
+      git clone https://github.com/Guilherme-H-Souza/maromo-marketplace.git
       ```
 
 2. **Gestão de Dependências:**
